@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The NeW</string>
+    <string name="home">홈</string>
+    <string name="map">지도</string>
+    <string name="about">우리</string>
+    <string name="settings">설정</string>
+    <string name="title_activity_maps">지도</string>
+    <string name="title_activity_maps2">지도</string>
+    <string name="title_activity_maps3">지도</string>
+    <string name="title_activity_maps4">지도</string>
+    <string name="change">영어</string>
+    <string name="change2">한국어</string>
+</resources>

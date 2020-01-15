@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The NeW</string>
+    <string name="home">홈</string>
+    <string name="map">지도</string>
+    <string name="about">우리</string>
+    <string name="settings">설정</string>
+    <string name="title_activity_maps">지도</string>
+    <string name="title_activity_maps2">지도</string>
+    <string name="title_activity_maps3">지도</string>
+    <string name="title_activity_maps4">지도</string>
+    <string name="change">언어 바꾸기</string>
+    <string name="aboutContent1">이 앱은 BCIT CST 학생들이 학교 프로젝트로 만든 앱입니다.</string>
+    <string name="aboutContent2">이 앱은 아주 유익해요. 아주 좋아요. 너무 좋아. 아주 유익해. 우와 진짜 좋다
+        번역기 돌리기 귀찮아서 아무말이나 쓰고 있습니다. 진짜 쓸데없다. 좀 더 길게 써야 할 거 같은데. 뭘 더
+        써야 하는거지. 아아아아아. 집 가고싶다.</string>
+    <string name="settingT">다른 언어로 바꾸려면 누르세용</string>
+
+</resources>
